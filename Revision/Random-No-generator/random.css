@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #1a1a1d;
+    color: aliceblue;
+}
+
+#button{
+    font-size: 3em;
+    padding: 5px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.50s;
+}
+
+.button:hover{
+    background-color:darkgray;
+}
+
+#myLabel{
+    font-size: 10em;
+}
